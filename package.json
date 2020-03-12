@@ -1,0 +1,22 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CompSciGuyIT/ElectronJS_VideoAnalyser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CompSciGuyIT/ElectronJS_VideoAnalyser/issues"
+  },
+  "homepage": "https://github.com/CompSciGuyIT/ElectronJS_VideoAnalyser#readme",
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
+}
